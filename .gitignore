@@ -50,6 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+development/
 
 # Translations
 *.mo
@@ -169,3 +170,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+*.csv
