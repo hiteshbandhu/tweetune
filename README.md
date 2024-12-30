@@ -75,12 +75,12 @@ After running the scripts, your final output CSV will include two columns:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/tweet-question-generator.git
+   git clone https://github.com/hiteshbandhu/tweetune.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd tweet-question-generator
+   cd tweetune
    ```
 
 3. Install the required dependencies:
